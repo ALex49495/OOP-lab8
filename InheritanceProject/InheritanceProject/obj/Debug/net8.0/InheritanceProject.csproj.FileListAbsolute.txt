@@ -1,0 +1,14 @@
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\bin\Debug\net8.0\InheritanceProject.exe
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\bin\Debug\net8.0\InheritanceProject.deps.json
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\bin\Debug\net8.0\InheritanceProject.runtimeconfig.json
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\bin\Debug\net8.0\InheritanceProject.dll
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\bin\Debug\net8.0\InheritanceProject.pdb
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\obj\Debug\net8.0\InheritanceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\obj\Debug\net8.0\InheritanceProject.AssemblyInfoInputs.cache
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\obj\Debug\net8.0\InheritanceProject.AssemblyInfo.cs
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\obj\Debug\net8.0\InheritanceProject.csproj.CoreCompileInputs.cache
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\obj\Debug\net8.0\InheritanceProject.dll
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\obj\Debug\net8.0\refint\InheritanceProject.dll
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\obj\Debug\net8.0\InheritanceProject.pdb
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\obj\Debug\net8.0\InheritanceProject.genruntimeconfig.cache
+C:\Intel\OOPlab_8\InheritanceProject\InheritanceProject\obj\Debug\net8.0\ref\InheritanceProject.dll
