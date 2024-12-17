@@ -1,0 +1,7 @@
+C:\Intel\OOPlab_8\FractionApp\FractionApp\bin\Debug\FractionApp.exe.config
+C:\Intel\OOPlab_8\FractionApp\FractionApp\bin\Debug\FractionApp.exe
+C:\Intel\OOPlab_8\FractionApp\FractionApp\bin\Debug\FractionApp.pdb
+C:\Intel\OOPlab_8\FractionApp\FractionApp\obj\Debug\FractionApp.csproj.AssemblyReference.cache
+C:\Intel\OOPlab_8\FractionApp\FractionApp\obj\Debug\FractionApp.csproj.CoreCompileInputs.cache
+C:\Intel\OOPlab_8\FractionApp\FractionApp\obj\Debug\FractionApp.exe
+C:\Intel\OOPlab_8\FractionApp\FractionApp\obj\Debug\FractionApp.pdb
